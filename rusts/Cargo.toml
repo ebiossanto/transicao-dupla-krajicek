@@ -1,0 +1,7 @@
+[package]
+name = "transicao-dupla-krajicek"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+# Nenhuma dependência externa necessária - usa apenas std
